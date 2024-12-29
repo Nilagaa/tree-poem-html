@@ -13,4 +13,8 @@ This is a simple static HTML project presenting the poem *Trees* by Joyce Kilmer
 2. Open the `index.html` file in any modern web browser.
 3. Enjoy the visual representation of the poem.
 
-## Repository Structure
+## License
+This project is licensed under the MIT License. Feel free to use and modify the project for personal or educational purposes.
+
+## Author
+Created by Nilagaa. Inspired by the timeless beauty of Joyce Kilmer's poetry.
